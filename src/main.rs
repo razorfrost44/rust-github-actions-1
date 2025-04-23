@@ -1,5 +1,4 @@
-pub mod simple_addition;
-use simple_addition::add_two;
+use rust_github_actions_1::simple_addition::add_two;
 
 fn run_addition() {
     let a = 5;
